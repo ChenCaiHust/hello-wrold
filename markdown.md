@@ -6,6 +6,12 @@ It's very easy to make some worlds **bold** and other worlds *italic* with MarkD
 
 *combine **bold** and italic*
 
+## list useage
+* item1
+* item2
+  * item2a
+  * item2b
+
 # Header syntax
 # this is h1 tag
 ## this is h2 tag
