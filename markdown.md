@@ -36,4 +36,4 @@ please use [Github](https://github.com) right now!
 
 
 ## images syntaxx
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![it's no use?](https://octodex.github.com/images/yaktocat.png)
