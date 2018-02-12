@@ -12,7 +12,7 @@ It's very easy to make some worlds **bold** and other worlds *italic* with MarkD
 ## list useage
 * item1
 * item2
- * item2a
+  * item2a
   * item2b
 
 ## header syntax
