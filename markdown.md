@@ -1,9 +1,12 @@
 It's very easy to make some worlds **bold** and other worlds *italic* with MarkDown, You can even [link to google](http://google.com)
 
+## italic
 *this line is italic*
 
+## bold
 **this line is bold**
 
+## nest litalic and bold
 *combine **bold** and italic*
 
 ## list useage
@@ -12,11 +15,11 @@ It's very easy to make some worlds **bold** and other worlds *italic* with MarkD
   * item2a
   * item2b
 
-# Header syntax
-# this is h1 tag
-## this is h2 tag
-### this is h3 tag
-#### this is h4 tag
-##### this is h5 tag
-###### this is h6 tag
+## header syntax
+ * h1 tag use #
+ * h2 tag use ##
+ * h3 tag use ###
+ * h4 tag use ####
+ * h5 tag use #####
+ * h6 tasg use ######
 
