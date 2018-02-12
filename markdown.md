@@ -1,5 +1,11 @@
 It's very easy to make some worlds **bold** and other worlds *italic* with MarkDown, You can even [link to google](http://google.com)
 
+*this line is italic*
+
+**this line is bold**
+
+*combine **bold** and italic*
+
 # Header syntax
 # this is h1 tag
 ## this is h2 tag
@@ -8,6 +14,3 @@ It's very easy to make some worlds **bold** and other worlds *italic* with MarkD
 ##### this is h5 tag
 ###### this is h6 tag
 
-*this line is italic*
-
-**this line is bold**
