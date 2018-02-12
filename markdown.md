@@ -24,8 +24,8 @@ It's very easy to make some worlds **bold** and other worlds *italic* with MarkD
  * h6 tasg use ######
 
 ## order syntax
- 1. Item1
- 2. Item2
- 3. Item3
-  1. item3a
-  2. item3b
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
